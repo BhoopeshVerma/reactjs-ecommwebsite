@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-ecommwebsite/static/css/main.0202f9a0.chunk.css",
+    "main.js": "/reactjs-ecommwebsite/static/js/main.563761fe.chunk.js",
+    "main.js.map": "/reactjs-ecommwebsite/static/js/main.563761fe.chunk.js.map",
+    "runtime-main.js": "/reactjs-ecommwebsite/static/js/runtime-main.b245c050.js",
+    "runtime-main.js.map": "/reactjs-ecommwebsite/static/js/runtime-main.b245c050.js.map",
+    "static/js/2.88e088b9.chunk.js": "/reactjs-ecommwebsite/static/js/2.88e088b9.chunk.js",
+    "static/js/2.88e088b9.chunk.js.map": "/reactjs-ecommwebsite/static/js/2.88e088b9.chunk.js.map",
+    "static/js/3.acf2c98a.chunk.js": "/reactjs-ecommwebsite/static/js/3.acf2c98a.chunk.js",
+    "static/js/3.acf2c98a.chunk.js.map": "/reactjs-ecommwebsite/static/js/3.acf2c98a.chunk.js.map",
+    "index.html": "/reactjs-ecommwebsite/index.html",
+    "static/css/main.0202f9a0.chunk.css.map": "/reactjs-ecommwebsite/static/css/main.0202f9a0.chunk.css.map",
+    "static/js/2.88e088b9.chunk.js.LICENSE.txt": "/reactjs-ecommwebsite/static/js/2.88e088b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b245c050.js",
+    "static/js/2.88e088b9.chunk.js",
+    "static/css/main.0202f9a0.chunk.css",
+    "static/js/main.563761fe.chunk.js"
+  ]
+}
